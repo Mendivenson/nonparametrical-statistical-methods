@@ -1,1 +1,0 @@
-# nonparametrical-statistical-methods
